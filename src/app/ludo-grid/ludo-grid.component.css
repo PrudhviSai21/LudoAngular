@@ -1,0 +1,33 @@
+.main{
+    width:1000px;
+    float:left;
+
+}
+.pawns{
+    width:30px;
+    height:30px;
+    margin-left: 8px;
+    border-radius:20px;
+    position:absolute;
+}
+.board{
+    background:url(Images/board.gif) no-repeat;
+    background-size:cover;
+    width:650px;
+    height:550px;
+    float:left;
+    margin-top:8px;
+    margin-right: 8px;
+}
+.uselesstext1{
+    float:left;
+    padding-left:10px;
+    padding-right:10px;
+}
+.dice1{
+  background-image:url(Images/dice.gif);
+  background-size:contain;
+  width:150px;
+  height:150px;
+  float:left;
+}
